@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2.1 Building model using EdmLib API"
-description: "Building model using EdmLib API"
+title: "2.1 Build a basic model"
+description: "Build a basic model"
 category: "2. EdmLib"
 ---
 
