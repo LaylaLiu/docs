@@ -14,3 +14,5 @@ abc
 {% highlight text %}
 public int
 {% endhighlight %}
+
+![]({{site.baseurl}}/images/2015-04-16-new-project.png)
